@@ -38,5 +38,5 @@ This application can be used to serve present weather data for user's current lo
 ## Showcase
 
 ## Credits
-Inspired from Clima app [The App Brewery](https://www.appbrewery.co/)
+Inspired by Clima app ( creator: [The App Brewery](https://www.appbrewery.co/))
 
