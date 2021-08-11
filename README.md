@@ -1,16 +1,42 @@
 # weer
 
-A new Flutter project.
+A weather application
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+This application can be used to serve present weather data for user's current location. It can also provide present weather data for numerous cities across the globe.
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+#### Prerequisites
+* Working flutter environment.<br/>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### Guides
+* [Flutter setup guide](https://flutter.dev/docs/get-started/install)
+* [Creating a new flutter project](https://flutter.dev/docs/get-started/test-drive?tab=androidstudio) 
+* [Using Packages](https://flutter.dev/docs/development/packages-and-plugins/using-packages)
+* [Location Package](https://pub.dev/packages/location)
+* [Openweathermap](https://openweathermap.org/current)
+
+#### Key commands
+* flutter pub get (install packages and dependencies)
+* flutter run --release (run release build)
+
+#### Steps
+* Setup Flutter environment
+* Create a new flutter project
+* Replace lib folder and pubspec.yaml file with that from repo.
+* Use openweather api to generate apikey and url. These are used in getCityWeather() in lib/services/weather.dart.
+* Setup permissions required by location package (follow guide).
+* Connect emulator or physical device.
+* Run the applicaion using run button or terminal command: "flutter run".
+
+## Usage
+
+
+
+## Showcase
+
+## Credits
+Inspired from Clima app [The App Brewery](https://www.appbrewery.co/)
+
