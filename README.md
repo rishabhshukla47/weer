@@ -9,7 +9,7 @@ This application can be used to serve present weather data for user's current lo
 ## Installation
 
 #### Prerequisites
-* Working flutter environment.<br/>
+* Working flutter environment.
 
 #### Guides
 * [Flutter setup guide](https://flutter.dev/docs/get-started/install)
@@ -23,9 +23,11 @@ This application can be used to serve present weather data for user's current lo
 * flutter run --release (run release build)
 
 #### Steps
-* Setup Flutter environment
-* Create a new flutter project
+* Setup Flutter environment.
+* Create a new flutter project.
 * Replace lib folder and pubspec.yaml file with that from repo.
+* Add fonts and images directory.
+* Run pub get.
 * Use openweather api to generate apikey and url. These are used in getCityWeather() in lib/services/weather.dart.
 * Setup permissions required by location package (follow guide).
 * Connect emulator or physical device.
