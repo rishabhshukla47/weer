@@ -4,7 +4,7 @@ A weather application
 
 ## Description
 
-This application can be used to serve present weather data for user's current location. It can also provide present weather data for numerous cities across the globe.
+This application can be used to serve current weather data for user's present location. It can also provide present weather data for numerous cities across the globe.
 
 ## Installation
 
