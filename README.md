@@ -34,6 +34,10 @@ This application can be used to serve current weather data for user's present lo
 * Run the applicaion using run button or terminal command: "flutter run".
 
 ## Usage
+<img src="https://user-images.githubusercontent.com/83495424/129262110-c3dbe582-8e45-4176-9589-9c8fe8e27580.png" alt="alt text" width="264" height="242">
+<img src="https://user-images.githubusercontent.com/83495424/129262168-f04efe95-494e-4a2a-a4a4-769c95a4cfd4.png" alt="alt text" width="269" height="141">
+<img src="https://user-images.githubusercontent.com/83495424/129262211-1ea44906-c95e-450e-9d5d-38fb0e29d567.png" alt="alt text" width="282" height="44">
+<img src="https://user-images.githubusercontent.com/83495424/129262250-054974eb-4359-40ab-9267-f64767fa1d80.png" alt="alt text" width="274" height="131">
 
 
 
